@@ -83,11 +83,12 @@ Everything for the five team roles is in [docs/](docs/):
 | ------------------------------- | ------- | ------------------------------------------------- |
 | `1_Requirements_Analysis.docx`  | 1       | Problem, stakeholders, FR / NFR, feasibility, use cases |
 | `2_System_Design_UML.docx`      | 2       | Five UML diagrams with explanations, DB + API design |
-| (this code)                     | 3       | Development                                       |
+| `3_Development_Report.docx`     | 3       | Stack, architecture, code walkthrough, demo screenshots |
 | `4_Testing_Report.docx`         | 4       | Test plan, 45 + 10 test cases, results, defects   |
 | `5_SRS_Document.docx`           | 5       | Full SRS in IEEE 830 structure                    |
 | `6_Presentation.pptx`           | all     | 20-minute deck with speaker notes                 |
 | `diagrams/`                     | -       | The UML diagrams as PNG images                    |
+| `screenshots/`                  | -       | Screenshots of the running app (also usable as UI-test evidence) |
 
 ---
 
